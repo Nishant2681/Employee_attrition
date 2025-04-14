@@ -1,0 +1,8 @@
+Employee ID,Name,Department,Salary,Years of Experience
+101,Alice,HR,70000.0,3.0
+102,Bob,Finance,80000.0,
+103,Charlie,IT,,6.0
+104,Diana,Finance,82000.0,10.0
+105,Ethan,IT,78000.0,7.0
+106,Fiona,,65000.0,4.0
+107,,HR,0.0,
